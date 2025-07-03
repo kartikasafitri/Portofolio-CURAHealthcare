@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>tc03_login_invalid_pwd</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7efefe06-d20c-48d0-ab43-8ae5c3875422</testCaseGuid>
+</TestCaseEntity>

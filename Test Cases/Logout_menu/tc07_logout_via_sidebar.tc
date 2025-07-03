@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>tc07_logout_via_sidebar</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>cdb2e32b-ecaa-4e7c-8ab1-f95ef4cfae28</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>tc10_visitdate_with_backdate</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6cd1613b-4411-462c-a840-85c044c1bdb0</testCaseGuid>
+</TestCaseEntity>

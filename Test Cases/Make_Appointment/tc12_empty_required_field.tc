@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>tc12_empty_required_field</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0a7a7d6a-05bf-45d7-8a6d-a87b1e0aac8a</testCaseGuid>
+</TestCaseEntity>

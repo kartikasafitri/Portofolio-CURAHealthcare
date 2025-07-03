@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>tc16_homepage_from_history</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a4a5ade5-720e-4e69-90ad-a1bfc15457a3</testCaseGuid>
+</TestCaseEntity>

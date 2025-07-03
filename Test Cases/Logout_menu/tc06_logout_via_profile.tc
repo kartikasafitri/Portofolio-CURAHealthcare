@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>tc06_logout_via_profile</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>840f7558-e562-4c9e-9ecc-cc25fe8ae4fd</testCaseGuid>
+</TestCaseEntity>

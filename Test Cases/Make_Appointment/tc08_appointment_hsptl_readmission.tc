@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>tc08_appointment_hsptl_readmission</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f34ebc02-4116-4390-acfb-dbea38ab1499</testCaseGuid>
+</TestCaseEntity>

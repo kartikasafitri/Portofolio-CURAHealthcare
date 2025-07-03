@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>tc15_homepage_from_app_confirm</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4b088628-bcb9-4c6c-9a7d-1d12308366cb</testCaseGuid>
+</TestCaseEntity>

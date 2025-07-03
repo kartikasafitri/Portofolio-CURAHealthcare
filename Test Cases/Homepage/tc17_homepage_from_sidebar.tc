@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>tc17_homepage_from_sidebar</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>409e1b73-a3c1-48c8-9677-514394331f97</testCaseGuid>
+</TestCaseEntity>

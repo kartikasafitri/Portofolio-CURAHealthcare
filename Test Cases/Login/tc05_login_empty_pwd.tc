@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>tc05_login_empty_pwd</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>dfa2bb4e-68d6-40e2-8e9e-a78b518e52b8</testCaseGuid>
+</TestCaseEntity>

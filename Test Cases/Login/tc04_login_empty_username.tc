@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>tc04_login_empty_username</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ffb22ca3-14a6-4fb9-ac2c-10a78278bf4f</testCaseGuid>
+</TestCaseEntity>

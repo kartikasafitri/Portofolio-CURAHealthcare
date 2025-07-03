@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>tc09_appointment_non_readmission</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>827e0d6b-884e-458c-8a84-7c1056d4807a</testCaseGuid>
+</TestCaseEntity>
